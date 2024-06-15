@@ -1,23 +1,44 @@
-### Hi there 👋
+# 👋 Hello, I'm Sumanth Jillepally
 
-<!--
-**Sumanth1908/Sumanth1908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced Full Stack Software Development Engineer specializing in cloud technologies and scalable solutions.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I am [__Sumanth Jillepally__](https://www.linkedin.com/in/sumanthjillepally/) a __Full-Stack Developer__ by profession from __Hyderabad, India__.<br>
-## Things I code in
-  - Python
-  - Java
-  - JavaScript
+- 🔭 Currently working as a Software Development Engineer at Amazon, Bangalore
+- 💼 Previously worked as a DevOps Engineer at Teradata and Automation Engineer at Infosys
+- 🌱 Always learning and exploring new technologies in the world of full-stack development and cloud computing
+- 🎯 Goal-oriented developer focused on improving user experiences and solving customer problems
 
-> _If only the world is as flexible as a restarting a software it would have been much easy._
+## 🛠 Skills
+
+![Python](https://img.shields.io/badge/Python-★★★★☆-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-★★★★☆-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-★★★★☆-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-★★★☆☆-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-★★★★☆-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-★★★★☆-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-★★★★☆-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-★★★★★-F05032?style=for-the-badge&logo=git&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-★★★★☆-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Infrastructure as Code](https://img.shields.io/badge/IaC-★★★★☆-326CE5?style=for-the-badge&logo=ansible&logoColor=white)
+![CDK](https://img.shields.io/badge/CDK-★★★☆☆-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+## 🏆 Achievements
+
+- 🏅 Extra Mile Award at Amazon for extending and innovating on behalf of customers
+- 📜 SAFE certified practitioner
+- 🏆 Best project award for developing an autonomous drone
+
+## 📫 How to reach me
+
+- 📧 Email: sumanthjillepally@gmail.com
+
+## 💼 Work Experience
+
+- Amazon, Bangalore — Software Development Engineer (May 2021 - Present)
+- Teradata, Hyderabad — DevOps Engineer (Mar 2019 - May 2021)
+- Infosys, Hyderabad — Automation Engineer (June 2016 - March 2019)
+
+💡 Always open to interesting projects and collaborations. Let's connect and create something awesome together!
+
+> *If only the world is as flexible as restarting a software, it would have been much easier.*
