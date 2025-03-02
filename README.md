@@ -4,9 +4,8 @@ Experienced Full Stack Software Development Engineer specializing in cloud techn
 
 ## 🚀 About Me
 
-- 🔭 Currently working as a Software Development Engineer at Amazon, Bangalore
-- 💼 Previously worked as a DevOps Engineer at Teradata and Automation Engineer at Infosys
-- 🌱 Always learning and exploring new technologies in the world of full-stack development and cloud computing
+- 🔭 Currently working as a Software Development Engineer at Electronic Arts, Hyderabad & Ex-Amazonian
+- 🌱 Always learning and exploring new technologies in the world of full-stack development and distributed computing
 - 🎯 Goal-oriented developer focused on improving user experiences and solving customer problems
 
 ## 🛠 Skills
