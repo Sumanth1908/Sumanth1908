@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sumanth Jillepally
 
-Experienced Full Stack Software Development Engineer specializing in cloud technologies and scalable solutions.
+A results-oriented Software Development Engineer with 10+ years of experience in designing robust applications, databases, cloud-native architectures, and distributed computing solutions. I have hands-on expertise in developing intelligent systems with AI-driven features. My exceptional troubleshooting and debugging skills consistently resolve complex technical challenges, enhancing system performance, reliability, and scalability. I excel in collaborating with cross-functional teams to deliver innovative, AI-powered solutions aligned with strategic business objectives. Committed to continuous learning and staying at the forefront of emerging technologies like Generative AI, Large Language Models, and data-driven architectures, I leverage modern tools and best practices to drive technological innovation and foster sustainable organizational growth.
 
 ## 🚀 About Me
 
@@ -34,7 +34,8 @@ Experienced Full Stack Software Development Engineer specializing in cloud techn
 
 ## 💼 Work Experience
 
-- Amazon, Bangalore — Software Development Engineer (May 2021 - Present)
+- Electronic Arts, Hyderabad - Software Development Engineer (October 2024 - Present)
+- Amazon, Bangalore — Software Development Engineer (May 2021 - October 2024)
 - Teradata, Hyderabad — DevOps Engineer (Mar 2019 - May 2021)
 - Infosys, Hyderabad — Automation Engineer (June 2016 - March 2019)
 
